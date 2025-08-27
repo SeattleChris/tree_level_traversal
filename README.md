@@ -5,3 +5,7 @@ Given a pointer to the root of a binary tree, you need to print the level order 
 ## Function Description
 
 The `levelOrder` function takes an input parameter of a root node of a binary tree. Determine the level order traversal, left to right at each level. Print these node's values, space separated.
+
+## Constraints
+
+* 1 <= Nodes in the tree <= 500
